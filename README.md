@@ -35,7 +35,7 @@ Dans `questions.json` :
 
 Dans `script.js`, compléter les fonctions :
 
-🧩 `showQuestion()`
+🧩 `montrerQuestion()`
  - Récupérer la question actuelle
  - Afficher la question dans la page
  - Créer des boutons pour chaque choix
