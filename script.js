@@ -29,7 +29,7 @@ fetch('questions.json')
     questions = data;
 
     // On affiche la première question
-    showQuestion();
+    montrerQuestion();
 });
 
 
@@ -37,7 +37,7 @@ fetch('questions.json')
 // FONCTION : AFFICHER UNE QUESTION
 // ===============================
 
-function showQuestion() {
+function montrerQuestion() {
 
     // 1. Récupérer la question actuelle dans le tableau
     // (indice : utiliser questionEnCours)
