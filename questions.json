@@ -1,0 +1,20 @@
+[
+  {
+    "question": "Question 1",
+    "choix": ["Réponse 1", "Réponse 2", "Réponse 3", "Réponse 4"],
+    "bonne_reponse": "Réponse 2"
+  },
+
+  {
+    "question": "",
+    "choix": ["", "", "", ""],
+    "bonne_reponse": ""
+  },
+
+  {
+    "question": "",
+    "choix": ["", "", "", ""],
+    "bonne_reponse": ""
+  }
+
+]
